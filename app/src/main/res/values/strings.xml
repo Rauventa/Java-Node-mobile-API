@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Client</string>
+    <string name="button">Показать</string>
+    <string name="textSearch">Укажите локацию для поиска</string>
+    <string name="buttonSearch">Искать</string>
+    <string name="buttonRepository">Посмотреть репозиторий</string>
+</resources>
